@@ -234,7 +234,7 @@ export default function checkout() {
                       <Form.Item name="news-subcribe" valuePropName="checked">
                         <Checkbox>
                           I want to receive exclusive discounts and information
-                          on the latest Stora trends.
+                          on the latest Online Food Delivery trends.
                         </Checkbox>
                       </Form.Item>
                     </Col>
